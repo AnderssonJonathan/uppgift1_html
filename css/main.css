@@ -1,0 +1,39 @@
+header {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-left: 20px;
+    font-size:50px;
+    font-weight:bold;
+}
+
+.box {
+    padding: 60px;
+    background-color: pink;
+    border: 2px solid rgb(75, 223, 243);
+    margin-bottom: 20px;
+
+    font-size: x-large;
+    color: white;
+}
+
+.flexing {
+    display: flex;
+    flex-direction: column;
+}
+
+#bild1 {
+    margin-top: 40px;
+    background-image: url(../img/tradgard1.jfif);
+}
+
+#bild2 {
+    background-image: url(../img/tradgard2.jfif);
+}
+
+#bild3 {
+    background-image: url(../img/tradgard3.jfif);
+}
+
+#bild4 {
+    background-image: url(../img/tradgard4.jfif);
+    color: rgb(14, 4, 109);
+}
